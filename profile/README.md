@@ -21,5 +21,10 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   PaperMC 1.20.2
+*   PaperMC 1.21.1
+*   AuthLib
+*   FastBoard
+*   FastInv
+*   Citizen
+*   ShadowJar
 *   Gradle
